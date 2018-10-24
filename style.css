@@ -1,0 +1,17 @@
+#mc_signup_form {
+padding: 10px !important;
+border: none !important;
+}
+.entry {
+text-align:justify;     
+}
+strong, b {
+font-weight: bold !important;
+}
+#header .pad {
+padding-top: 20px !important;
+padding-bottom: 20px !important;
+}
+.entry-inner {
+    font-weight: normal;
+}
